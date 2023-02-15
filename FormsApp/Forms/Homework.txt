@@ -1,0 +1,6 @@
+label,How would you rate my homework?,(0,0)
+panel,Rating Panel,(0,2),{[label,Rating,(0,0)],[label,Feedback,(12,0)],[radio,{[6,0],[5,0],[4,0],[3,0],[2,0]},(0,1)],[textbox,,(15,5),(9,1)]}
+label,How did I do?,(0,9)
+listbox,{excellent,good,okay,meh,bad},0,(15,9)
+label,Do you agree not to share it?,(0,10)
+checkbox,I agree,(0,11),0

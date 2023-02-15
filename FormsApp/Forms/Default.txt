@@ -1,0 +1,3 @@
+label,Input,(0,0)
+textbox,Test,(10,1),(8,0)
+radio,{[Yes,0],[No,1],[Maybe,0]},(0,1)
